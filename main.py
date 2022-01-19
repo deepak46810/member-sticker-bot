@@ -32,11 +32,10 @@ START_STRING_GROUP = """ **I need Admin rights to Send sticker in {}**
 
 ABOUT = """
 ● **BOT:** `Member Sticker BOT` 
-● **AUTHOR :** [bughunter0](https://t.me/bughunter0) 
+● **AUTHOR :** [bughunter0](https://t.me/kanewilliamson4) 
 ● **SERVER :** `Heroku` 
 ● **LIBRARY :** `Pyrogram` 
 ● **LANGUAGE :** `Python 3.9` 
-● **SOURCE :** [BugHunterBots](https://t.me/BugHunterBots/93) 
 
 """
 HELP = """
@@ -48,7 +47,7 @@ HELP = """
 
 CHANNEL_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/BughunterBots')
+        InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/meninbluefans')
         ]]
     )
 ADDME_BUTTON = InlineKeyboardMarkup(
@@ -62,7 +61,7 @@ START_BUTTON = InlineKeyboardMarkup(
         InlineKeyboardButton('HELP',callback_data='cbhelp')
         ],
         [
-        InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/BughunterBots'),
+        InlineKeyboardButton('↗ Join Here ↗', url='https://t.me/meninbluefans'),
         ],
         [InlineKeyboardButton('↗ ADD ME TO A GROUP ↗', url="t.me/member_sticker_bot?startgroup=true")
         ]]
